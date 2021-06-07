@@ -1,0 +1,2 @@
+com/e/exo4/BuildConfig.java
+ com.e.exo4.BuildConfig

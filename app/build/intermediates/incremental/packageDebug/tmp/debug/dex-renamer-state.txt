@@ -1,0 +1,7 @@
+#Mon Jun 07 15:26:13 WAT 2021
+base.0=C\:\\Users\\LATITUDE 7490\\Desktop\\S02\\TDM\\TPs\\Task_Application-master\\Task_Application-master\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\LATITUDE 7490\\Desktop\\S02\\TDM\\TPs\\Task_Application-master\\Task_Application-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
